@@ -10,8 +10,8 @@ from telegram import Update
 from telegram.ext import ApplicationBuilder, CommandHandler, ContextTypes
 
 # 🔧 Configure your Telegram bot token and chat ID
-BOT_TOKEN = "7760875926:AAHGbsQLg8U9Kr-vvkrod3Nfpx_udXkoXL8"
-CHAT_ID = "1550711726"  # Must be an integer
+BOT_TOKEN = "API_TOKEN"
+CHAT_ID = "ID"  # Must be an integer
 
 # 🎯 Ports to monitor
 PORTS_TO_MONITOR = [22, 80, 443]
